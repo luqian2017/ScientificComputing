@@ -19,13 +19,13 @@ Log(17)=
 2.8332133440562162     // Math Library
 2.8332133440562171     // Ellipse Function
 2.8332133440562166     // Taylor Series
-2.8332133440623486     // Adaptive Simpson
+2.8332133440623486     // Adaptive Simpson, eps = 1e-10
 
 Log(10000000)=
 16.11809565095832      // Math Library
 16.11809565095832      // Ellipse Function
 16.11809565095832      // Taylor Series
-16.118095650963408     // Adaptive Simpson
+16.118095650963408     // Adaptive Simpson, eps = 1e-10
 
 //Execution time test: 
 //    begin_time = clock();
@@ -37,4 +37,4 @@ Output:
 16        // Math Library
 47        // Ellipse Function
 16        // Taylor Series
-22652     // Adaptive Simpson
+22652     // Adaptive Simpson, eps = 1e-10
