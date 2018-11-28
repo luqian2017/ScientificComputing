@@ -1,18 +1,18 @@
-This folder collects the following three programs that can calculate high-precision natural logarithm function.
+This folder collects the following three methods that can realize high-precision natural logarithm function.
 
 
-Ellipse Function
+1) Ellipse Function
 Reference:
-1) Practically Fast Multiple-Precision Evaluation of LOG(X), https://ci.nii.ac.jp/naid/110002673332
-2) http://www.cnblogs.com/skyivben/archive/2013/02/15/2912914.html
+I. Practically Fast Multiple-Precision Evaluation of LOG(X), https://ci.nii.ac.jp/naid/110002673332
+II. http://www.cnblogs.com/skyivben/archive/2013/02/15/2912914.html
 
-Taylor Series
+2) Taylor Series
 Reference:
-1) https://blog.csdn.net/jiao1197018093/article/details/50365299
+I. https://blog.csdn.net/jiao1197018093/article/details/50365299
 
-Adaptive Simpson
+3) Adaptive Simpson
 Reference:
-1) https://www.zhihu.com/question/30517151/answer/48419639
+I. https://www.zhihu.com/question/30517151/answer/48419639
 
 
 Precision test:
