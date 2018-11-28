@@ -32,7 +32,7 @@ Log(10000000)=
 16.118095650963408     // Adaptive Simpson, eps = 1e-10
 
 Running time test:
-The test loop is below:
+The test uses the loop below to obtain the total time:
 //    begin_time = clock();
 //    for (long long i = 1; i < 1000000; i += 10) {
 //        test_function(i);
